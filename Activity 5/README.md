@@ -1,3 +1,2 @@
 # Milestone
-MIlestone 3
-basic calc with a array function in it now.
+Addition of structures and unions to calc.c within activity 5 folder.
